@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "67cfc392-e67e-1b45-92fb-2200b9265fed++2879",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "67cfc392-e67e-1b45-92fb-2200b9265fed++2879" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "67cfc392-e67e-1b45-92fb-2200b9265fed++2879" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "C9BE47DA-AC77-4B03-BDC9-65FF1917C88C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "67cfc392-e67e-1b45-92fb-2200b9265fed++2879" : "ipadapp\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Order Management",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Order Management\/Order Management.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/ais-technolabs-server.ais.group\/svn\/ais",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "67cfc392-e67e-1b45-92fb-2200b9265fed++2879"
+    }
+  ]
+}

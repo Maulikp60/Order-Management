@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C9BE47DA-AC77-4B03-BDC9-65FF1917C88C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Order Management</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>67cfc392-e67e-1b45-92fb-2200b9265fed++2879</key>
+		<string>https://ais-technolabs-server.ais.group/svn/ais/ipadapp/trunk</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Order Management/Order Management.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>67cfc392-e67e-1b45-92fb-2200b9265fed++2879</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>67cfc392-e67e-1b45-92fb-2200b9265fed++2879</key>
+		<string>https://ais-technolabs-server.ais.group/svn/ais</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://ais-technolabs-server.ais.group/svn/ais/ipadapp/trunk/Order%20Management/Order%20Management.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>67cfc392-e67e-1b45-92fb-2200b9265fed++2879</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>67cfc392-e67e-1b45-92fb-2200b9265fed++2879</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ipadapp</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,29 @@
+//
+//  Order Management-PrefixHeader.pch
+//  Order Management
+//
+//  Created by Yoshemite on 12/01/16.
+//  Copyright © 2016 MAC. All rights reserved.
+//
+
+#ifndef Order_Management_PrefixHeader_pch
+#define Order_Management_PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* Order_Management_PrefixHeader_pch */
+#ifdef __OBJC__
+#import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
+//#define ios @"1"
+
+//#define WebServiceURL @"http://aistechnolabs.us/artvenue/v1/"
+//#define WebServiceURL = @"http://aistechnolabs.us/artvenue/v1/"
+#define WebServiceURL @"http://csvihara.ddns.net/shop/api/rest/extended/"
+
+#  define LOG_CURRENT_METHOD NSLog(@"%@/%@", NSStringFromClass([self class]), NSStringFromSelector(_cmd))
+
+
+//#define NSLog(s,...)
+#endif
